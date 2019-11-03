@@ -9,6 +9,7 @@ Saves the image to ocr.png. Saves the text as ocr.txt.
 Install Tesseract-OCR https://github.com/UB-Mannheim/tesseract/wiki
 with additional Icelandic language package.
 Put this script in the same folder.
-\
-↳ ocrreader.py
-↳ Tesseract-OCR \ tesseract.exe
+
+### \
+### ↳ ocrreader.py
+### ↳ Tesseract-OCR \ tesseract.exe
